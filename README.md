@@ -6,7 +6,9 @@
 
 ## 📊 GitHub Stats
 
-<!-- fixing -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bukk1t&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Stats" />
+</p>
 
 ## 🐍 Contribution Snake
 
