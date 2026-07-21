@@ -10,4 +10,4 @@
 
 ## 🐍 Contribution Snake
 
-<!-- not yet -->
+![GitHub Contribution Snake](https://raw.githubusercontent.com/Bukk1t/Bukk1t/output/github-contribution-grid-snake-dark.svg)
