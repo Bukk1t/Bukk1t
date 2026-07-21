@@ -4,7 +4,7 @@
 
 -🤖 Building Cyrus Assistant
 
--🌍 Open Source Contributor (LocalSend Persian Translation)
+-🌍 Open-Source Contributor (LocalSend Persian Translation)
 
 
 ## 🐍 Contribution Snake
