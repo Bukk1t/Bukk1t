@@ -7,8 +7,6 @@
 ## 🌱 Currently Learning
 
 - Python
-- Web Development
-- Lua
 
 ## 🤝 Open Source
 
@@ -18,9 +16,7 @@
 
 > "Always learning. Always building."
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bukk1t&show_icons=true&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bukk1t&layout=compact&theme=transparent)
+https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Bukk1t&show_icons=true&theme=transparent
 
 ## 🐍 Contribution Snake
 
