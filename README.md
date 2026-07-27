@@ -1,11 +1,26 @@
 # 👋 Hi, I'm S
 
--🚀 Developer from Iran
+🚀 Developer from Iran 🇮🇷
 
--🤖 Building Cyrus Assistant
+💻 I enjoy building software, learning new technologies, and contributing to open source.
 
--🌍 Open-Source Contributor (LocalSend Persian Translation)
+## 🌱 Currently Learning
 
+- Python
+- Web Development
+- Lua
+
+## 🤝 Open Source
+
+- 🌍 LocalSend Persian Translation Contributor
+
+---
+
+> "Always learning. Always building."
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BUKK1T&show_icons=true&theme=transparent)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BUKK1T&layout=compact&theme=transparent)
 
 ## 🐍 Contribution Snake
 
