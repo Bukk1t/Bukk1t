@@ -1,9 +1,6 @@
 # 👋 Hi, I'm S
 
-🚀 Developer from Iran 
-      🔴🔴🔴🔴🔴
-      ⚪⚪🦁⚪⚪
-      🟢🟢🟢🟢🟢
+🚀 Developer from Iran
 
 💻 I enjoy building software, learning new technologies, and contributing to open source.
 
