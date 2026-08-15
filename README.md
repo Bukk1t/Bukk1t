@@ -2,7 +2,7 @@
 
 🚀 Developer from Iran
 
-💻 I enjoy building software, learning new technologies, and contributing to open source.
+💻 I enjoy spending my freetime on working on my projects.
 
 ## 🌱 Currently Learning
 
