@@ -13,10 +13,7 @@
 
 - 🌍 LocalSend Translation (Persian)
 
----
-
 ## 📖 Quote
-
 
 > "A tree is known by its fruit.  - Saadi Shirazi"
 
