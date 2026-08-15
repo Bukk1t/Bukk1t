@@ -1,21 +1,23 @@
 # 👋 Hi, I'm S
 
-🚀 Developer from Iran
+I'm a developer from Iran who enjoys building things, experimenting with new ideas, and learning along the way.
 
-💻 I enjoy spending my freetime on working on my projects.
+I spend most of my free time working on personal projects and exploring different areas of software development.
 
 ## 🌱 Currently Learning
 
-- Python
-- Lua
+- 🐍 Python
+- 🎮 Lua
 
-## 🤝 Contributions
+## 🤝 Open Source
 
-- 🌍 LocalSend Translation (Persian)
+I've contributed to the Persian translation of **LocalSend**, helping make the project more accessible to Persian-speaking users.
 
-## 📖 Quote
+## 📖 A Quote I Like
 
-> "A tree is known by its fruit.  - Saadi Shirazi"
+> “A tree is known by its fruit.”
+>
+> — Saadi Shirazi
 
 ## 🐍 Contribution Snake
 
