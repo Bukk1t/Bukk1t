@@ -7,14 +7,16 @@
 ## 🌱 Currently Learning
 
 - Python
+- Lua
 
-## 🤝 Open Source
+## 🤝 Contributions
 
-- 🌍 LocalSend Persian Translation Contributor
+- 🌍 LocalSend Translation (Persian)
 
 ---
 
-> "Always learning. Always building."
+> "A tree is known by its fruit.
+> - Saadi shirazi"
 
 ## 🐍 Contribution Snake
 
