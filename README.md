@@ -1,8 +1,12 @@
 # 👋 Hi, I'm S
 
-I'm a developer from Iran who enjoys building things, experimenting with new ideas, and learning along the way.
+<p>
+  I'm a developer from Iran who enjoys building things, experimenting with new ideas, and learning along the way.
+</p>
 
-I spend most of my free time working on personal projects and exploring different areas of software development.
+<p>
+  I spend most of my free time working on personal projects and exploring different areas of software development.
+</p>
 
 ## 🌱 Currently Learning
 
@@ -13,7 +17,7 @@ I spend most of my free time working on personal projects and exploring differen
 
 I've contributed to the Persian translation of **LocalSend**, helping make the project more accessible to Persian-speaking users.
 
-## 📖 A Quote I Like
+## 📖 Quote
 
 > “A tree is known by its fruit.”
 >
