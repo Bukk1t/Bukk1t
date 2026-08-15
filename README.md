@@ -15,8 +15,7 @@
 
 ---
 
-> "A tree is known by its fruit.
-> - Saadi shirazi"
+> "A tree is known by its fruit.  - Saadi Shirazi"
 
 ## 🐍 Contribution Snake
 
