@@ -3,7 +3,6 @@
 <p>
   I'm a developer from Iran who enjoys building things, experimenting with new ideas, and learning along the way.
 </p>
-
 <p>
   I spend most of my free time working on personal projects and exploring different areas of software development.
 </p>
