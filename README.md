@@ -2,78 +2,181 @@
 
 # Bukk1t
 
-### Developer • Builder • Linux Tinkerer • Roblox Creator
+### Code • Systems • Games • Self-Hosting
 
-I build things, break things, figure out why they broke, and build them better.
+Building projects, experimenting with infrastructure, and occasionally breaking things spectacularly.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Bukk1t-181717?style=for-the-badge&logo=github)](https://github.com/Bukk1t)
-[![Profile](https://img.shields.io/badge/Profile-Visit-0d1117?style=for-the-badge)](https://github.com/Bukk1t)
+[![Repositories](https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github)](https://github.com/Bukk1t?tab=repositories)
 
 </div>
 
 ---
 
-## 🚀 What I'm Building
+## 👋 About Me
 
-### 🛡️ [PiHoleBlocklist](https://github.com/Bukk1t/PiHoleBlocklist)
+I'm **Bukk1t**, a developer who enjoys building things across a few different areas:
 
-A large, automatically generated DNS blocklist for Pi-hole.
+- 🐧 Linux & self-hosting
+- 🌐 Networking & DNS
+- 🐳 Docker & infrastructure
+- 🎮 Roblox development
+- 🐍 Python & automation
+- 🌎 Web development
+- 🔧 Random experiments that somehow turn into projects
 
-It combines sources covering:
+I like understanding **how things work**, not just using them.
 
-- 🛡️ Malware
-- 🎣 Phishing
-- 🚨 Scams & fraud
+---
+
+## 🚀 Featured Projects
+
+### 🛡️ PiHoleBlocklist
+
+**A large, automatically generated DNS blocklist for Pi-hole.**
+
+The project combines a large collection of security, privacy, advertising and tracking sources into a single optimized blocklist.
+
+### Coverage
+
 - 📢 Advertisements
 - 👁️ Trackers
+- 🦠 Malware
+- 🎣 Phishing
+- 🚨 Scams & fraud
 - 📡 Telemetry
-- 💰 Cryptomining
-- 🇮🇷 Persian / Iranian-specific domains
+- 🔐 Privacy
+- 🇮🇷 Persian / Iranian domains
 - 📺 Smart TVs & IoT
-- 🔐 Privacy-focused filtering
+- 💰 Cryptomining
+- 🌐 Suspicious domains
+- 🔗 URL shorteners
+- 🧬 Newly registered domains
+- 🤖 DGA domains
 
-The project automatically downloads, normalizes, deduplicates and combines its sources into a single blocklist.
+### How it works
 
-> One list. Thousands of sources. Millions of unnecessary requests stopped.
+1. Downloads blocklist sources
+2. Parses different list formats
+3. Extracts domains
+4. Removes duplicates
+5. Generates the final blocklist
+6. Generates statistics
+7. Automatically updates through GitHub Actions
 
-**→ [View PiHoleBlocklist](https://github.com/Bukk1t/PiHoleBlocklist)**
+[→ PiHoleBlocklist](https://github.com/Bukk1t/PiHoleBlocklist)
 
 ---
 
 ## 🎮 Roblox
 
-I also build and experiment with Roblox projects.
+I build and experiment with Roblox games and systems.
 
-Things I've worked on include:
+### Things I work on
 
-- Survival games
-- Multiplayer systems
-- Gameplay mechanics
-- UI systems
-- Maps and environments
-- Optimization
-- Audio systems
-- Roblox development tooling
+- 🏝️ Maps & environments
+- 🎲 Gameplay systems
+- 🌪️ Survival mechanics
+- 🖥️ UI systems
+- 🔊 Audio systems
+- ⚡ Optimization
+- 👥 Multiplayer systems
+- 🧪 Experimental mechanics
 
-**→ [View my Roblox projects](https://github.com/Bukk1t?tab=repositories&q=roblox)**
+[→ Roblox Projects](https://github.com/Bukk1t?tab=repositories&q=roblox)
 
 ---
 
-## 🖥️ Self-Hosted
+## 🖥️ Self-Hosting
 
-I enjoy running services myself instead of relying on hosted platforms.
+I like running my own infrastructure and services.
 
-### Current / Experimental Stack
+Some of the things I experiment with include:
 
-```text
-Linux
- ├── Docker
- │    ├── Pi-hole
- │    ├── Jellyfin
- │    └── Navidrome
- │
- ├── Tailscale
- └── Self-hosted services
+- 🐧 Linux servers
+- 🐳 Docker containers
+- 🛡️ Pi-hole
+- 🎬 Jellyfin
+- 🎵 Navidrome
+- 🔗 Tailscale
+- 🌐 DNS infrastructure
+- ⚙️ Automation
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
+
+### Tools & Platforms
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Tailscale](https://img.shields.io/badge/Tailscale-4C5FD5?style=flat-square&logo=tailscale&logoColor=white)
+![Roblox](https://img.shields.io/badge/Roblox-000000?style=flat-square&logo=roblox&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Bukk1t&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bukk1t&layout=compact&hide_border=true&theme=github_dark" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bukk1t&theme=github-compact&hide_border=true&area=true" />
+
+</div>
+
+---
+
+## 🧊 Interactive 3D
+
+<div align="center">
+
+<a href="https://bukk1t.github.io/Bukk1t/">
+
+<img src="https://img.shields.io/badge/▶%20OPEN%203D%20VIEWER-5865F2?style=for-the-badge" alt="Open Interactive 3D Viewer">
+
+</a>
+
+<br>
+
+<sub>Rotate • Zoom • Explore</sub>
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+- 🛡️ Building better DNS filtering
+- 🐳 Self-hosted infrastructure
+- 🎮 Roblox development
+- ⚙️ Automation
+- 🌐 Networking
+- 🧪 Experimental projects
+- 💻 Learning new technologies
+
+---
 
 ## 🐍 Contribution Snake
 
@@ -82,3 +185,27 @@ Linux
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bukk1t/Bukk1t/output/github-contribution-grid-snake.svg">
   <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Bukk1t/Bukk1t/output/github-contribution-grid-snake.svg">
 </picture>
+
+---
+
+## 💡 Philosophy
+
+> Build it yourself.
+>
+> Understand how it works.
+>
+> Make it better.
+
+---
+
+<div align="center">
+
+### Thanks for visiting 👋
+
+[GitHub](https://github.com/Bukk1t) • [Repositories](https://github.com/Bukk1t?tab=repositories)
+
+<br>
+
+<sub>© Bukk1t</sub>
+
+</div>
