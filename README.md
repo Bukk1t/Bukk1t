@@ -68,25 +68,6 @@ The project combines a large collection of security, privacy, advertising and tr
 
 ---
 
-## 🎮 Roblox
-
-I build and experiment with Roblox games and systems.
-
-### Things I work on
-
-- 🏝️ Maps & environments
-- 🎲 Gameplay systems
-- 🌪️ Survival mechanics
-- 🖥️ UI systems
-- 🔊 Audio systems
-- ⚡ Optimization
-- 👥 Multiplayer systems
-- 🧪 Experimental mechanics
-
-[→ Roblox Projects](https://github.com/Bukk1t?tab=repositories&q=roblox)
-
----
-
 ## 🖥️ Self-Hosting
 
 I like running my own infrastructure and services.
@@ -99,30 +80,7 @@ Some of the things I experiment with include:
 - 🎬 Jellyfin
 - 🎵 Navidrome
 - 🔗 Tailscale
-- 🌐 DNS infrastructure
 - ⚙️ Automation
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
-
-### Tools & Platforms
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Tailscale](https://img.shields.io/badge/Tailscale-4C5FD5?style=flat-square&logo=tailscale&logoColor=white)
-![Roblox](https://img.shields.io/badge/Roblox-000000?style=flat-square&logo=roblox&logoColor=white)
 
 ---
 
@@ -152,7 +110,7 @@ Some of the things I experiment with include:
 
 <div align="center">
 
-<a href="https://bukk1t.github.io/Bukk1t/">
+<a href="https://bukk1t.github.io/">
 
 <img src="https://img.shields.io/badge/▶%20OPEN%203D%20VIEWER-5865F2?style=for-the-badge" alt="Open Interactive 3D Viewer">
 
