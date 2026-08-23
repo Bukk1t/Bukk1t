@@ -110,7 +110,7 @@ Some of the things I experiment with include:
 
 <div align="center">
 
-<a href="https://bukk1t.github.io/">
+<a href="https://bukk1t.github.io/bucket/">
 
 <img src="https://img.shields.io/badge/▶%20OPEN%203D%20VIEWER-5865F2?style=for-the-badge" alt="Open Interactive 3D Viewer">
 
