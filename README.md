@@ -1,22 +1,79 @@
-# 👋 Hi, I'm S
+<div align="center">
 
-  I'm a developer from Iran who enjoys building things, experimenting with new ideas, and learning along the way.
-  I spend most of my free time working on personal projects and exploring different areas of software development.
+# Bukk1t
 
-## 🌱 Currently Learning
+### Developer • Builder • Linux Tinkerer • Roblox Creator
 
-- 🐍 Python
-- 🎮 Lua
+I build things, break things, figure out why they broke, and build them better.
 
-## 🤝 Open Source
+[![GitHub](https://img.shields.io/badge/GitHub-Bukk1t-181717?style=for-the-badge&logo=github)](https://github.com/Bukk1t)
+[![Profile](https://img.shields.io/badge/Profile-Visit-0d1117?style=for-the-badge)](https://github.com/Bukk1t)
 
-I've contributed to the Persian translation of **LocalSend**, helping make the project more accessible to Persian-speaking users.
+</div>
 
-## 📖 Quote
+---
 
-> “A tree is known by its fruit.”
->
-> — Saadi Shirazi
+## 🚀 What I'm Building
+
+### 🛡️ [PiHoleBlocklist](https://github.com/Bukk1t/PiHoleBlocklist)
+
+A large, automatically generated DNS blocklist for Pi-hole.
+
+It combines sources covering:
+
+- 🛡️ Malware
+- 🎣 Phishing
+- 🚨 Scams & fraud
+- 📢 Advertisements
+- 👁️ Trackers
+- 📡 Telemetry
+- 💰 Cryptomining
+- 🇮🇷 Persian / Iranian-specific domains
+- 📺 Smart TVs & IoT
+- 🔐 Privacy-focused filtering
+
+The project automatically downloads, normalizes, deduplicates and combines its sources into a single blocklist.
+
+> One list. Thousands of sources. Millions of unnecessary requests stopped.
+
+**→ [View PiHoleBlocklist](https://github.com/Bukk1t/PiHoleBlocklist)**
+
+---
+
+## 🎮 Roblox
+
+I also build and experiment with Roblox projects.
+
+Things I've worked on include:
+
+- Survival games
+- Multiplayer systems
+- Gameplay mechanics
+- UI systems
+- Maps and environments
+- Optimization
+- Audio systems
+- Roblox development tooling
+
+**→ [View my Roblox projects](https://github.com/Bukk1t?tab=repositories&q=roblox)**
+
+---
+
+## 🖥️ Self-Hosted
+
+I enjoy running services myself instead of relying on hosted platforms.
+
+### Current / Experimental Stack
+
+```text
+Linux
+ ├── Docker
+ │    ├── Pi-hole
+ │    ├── Jellyfin
+ │    └── Navidrome
+ │
+ ├── Tailscale
+ └── Self-hosted services
 
 ## 🐍 Contribution Snake
 
