@@ -188,16 +188,6 @@ Some of the things I experiment with include:
 
 ---
 
-## 💡 Philosophy
-
-> Build it yourself.
->
-> Understand how it works.
->
-> Make it better.
-
----
-
 <div align="center">
 
 ### Thanks for visiting 👋
