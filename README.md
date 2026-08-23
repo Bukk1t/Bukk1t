@@ -84,18 +84,6 @@ Some of the things I experiment with include:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Bukk1t&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bukk1t&layout=compact&hide_border=true&theme=github_dark" />
-
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
