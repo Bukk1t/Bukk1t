@@ -25,8 +25,6 @@ I'm **Bukk1t**, a developer who enjoys building things across a few different ar
 - 🌎 Web development
 - 🔧 Random experiments that somehow turn into projects
 
-I like understanding **how things work**, not just using them.
-
 ---
 
 ## 🚀 Featured Projects
