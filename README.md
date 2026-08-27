@@ -82,16 +82,6 @@ Some of the things I experiment with include:
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bukk1t&theme=github-compact&hide_border=true&area=true"/>
-
-</div>
-
----
-
 ## 🎯 Current Focus
 
 - 🛡️ Building better DNS filtering
