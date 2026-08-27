@@ -86,7 +86,7 @@ Some of the things I experiment with include:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bukk1t&theme=github-compact&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bukk1t&theme=github-compact&hide_border=true&area=true"/>
 
 </div>
 
